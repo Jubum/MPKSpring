@@ -1,0 +1,5 @@
+@charset "utf-8";
+
+button{margin:10px}
+.frame{width:600px; border:2px solid red; margin:10px;}
+.frame img{width:100%;}

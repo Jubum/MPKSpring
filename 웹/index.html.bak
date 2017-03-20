@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello</title>
+	<link rel="stylesheet" href="css.css"/>
+		<script src="jquery-3.2.0.min.js"></script>
+	<script src="91.js"></script>
+  </head>
+  <body>
+    <ul>¤·¤·¤·
+		<div class="box1"></div>
+		<div class="box2"></div>
+	</ul>
+  </body>
+</html>

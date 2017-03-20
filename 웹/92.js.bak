@@ -1,0 +1,9 @@
+
+$(function(){
+	$(".box1").on("click", function(){
+		$(".frame img").attr({"src":"a.jpg", "alt":"¾ó±¼1"});
+	});
+	$(".box2").on("click", function(){
+		$(".frame img").attr({"src":"a.jpg", "alt":"¾ó±¼1"});
+	});
+})
